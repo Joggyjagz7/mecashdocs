@@ -1,7 +1,11 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
+  "create-api-key": "Create API Key",
+  "delete-api-key":"Delete API Key",
   "advanced": "Advanced (A Folder)",
+  "wallet-integration": "Wallet Integration",
+  "api-services":"API Services",
+  "webhooks": "",
   "about": {
     "title": "About",
     "type": "page"
